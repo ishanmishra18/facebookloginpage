@@ -1,0 +1,52 @@
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  border: 1px solid #e2dcdce7;
+  height: 400px;
+  width: 400px;
+  padding: 20px;
+
+  justify-content: center;
+  align-items: center;
+}
+#heading {
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
+.email {
+  background-color: #ebe9e9;
+  width: 95%;
+  height: 30px;
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+}
+
+#login {
+  width: 95%;
+  height: 50px;
+  font-size: large;
+  background-color: blue;
+  color: aliceblue;
+}
+#forgetpassword {
+  text-align: center;
+  height: 20px;
+  font-size: 20px;
+}
+
+#createnewaccount {
+  width: 60%;
+  height: 50px;
+  margin-left: 20%;
+  font-size: large;
+  background-color: green;
+  color: aliceblue;
+}
